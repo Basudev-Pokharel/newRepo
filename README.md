@@ -3,7 +3,7 @@
 - Console.log <br>
   `console.log('Hello world');`
 - Alert <br>
-  `````alert('Hello world');
+  ```alert('Hello world');
   alert ('2nd line');
-  alert ('Third line');````
-  `````
+  alert ('Third line');
+  ```
